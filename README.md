@@ -1,6 +1,8 @@
 # Greetings! Welcome to my page 👋
 
-### I am a graduate student at the Carnegie Mellon University pursuing M.S in Artificial Intelligence - Mechanical Engineering. <img src="[image-url](https://www.emojis.com/emoji/smiling-solo-in-a-tartan-bonnet-P3GqWbKAYjw)" alt="Image description" width="500" height="300">
+### I am a graduate student at the Carnegie Mellon University pursuing M.S in Artificial Intelligence - Mechanical Engineering. 
+
+<img src="https://github.com/user-attachments/assets/8a67ff60-3d37-4d20-b290-e0b7dbd42c49" alt="Image description" width="400">
 
 
 
