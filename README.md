@@ -1,6 +1,7 @@
 # Greetings! Welcome to my page 👋 <img src="https://github.com/user-attachments/assets/8a67ff60-3d37-4d20-b290-e0b7dbd42c49" alt="Image description" width="40" height ="40">
 
-### I'm a grad student at the Carnegie Mellon University pursuing M.S in Artificial Intelligence - Mechanical Engineering. My interests lie in AI / ML applied in Autonomous vehicles and Perception Engineering and that explains all the topics of my projects in their respective repositories.
+### I'm a grad student at the Carnegie Mellon University pursuing M.S in Artificial Intelligence - Mechanical Engineering. 
+🔭 My interests lie in AI / ML applied in Autonomous vehicles and Perception Engineering and that explains all the topics of my projects in their respective repositories.
 
 
 
