@@ -1,4 +1,4 @@
-# Greetings! Welcome to my page 👋
+### Greetings! Welcome to my page 👋
 
 ## I am a graduate student at the Carnegie Mellon University pursuing M.S in Artificial Intelligence - Mechanical Engineering.
 
