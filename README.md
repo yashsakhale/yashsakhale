@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **ysakhale@andrew.cmu.edu**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">A little about me</h3>
 <p align="left">
 </p>
 
