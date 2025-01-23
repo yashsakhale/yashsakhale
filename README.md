@@ -3,7 +3,7 @@
 ### I'm a grad student at the Carnegie Mellon University pursuing M.S in Artificial Intelligence - Mechanical Engineering. 
 🔭 My interests lie in AI / ML applied in Autonomous vehicles and Perception Engineering and that explains all the topics of my projects in their respective repositories.
 
-### *If you're reading this, you are here way too early. I have just started building my github again and it is going to take a while so hang tight and visit again soon till im done uploading and sorting everything! Feel free to contact me if you want to chat - Email ID : ysakhale@andrew.cmu.edu || Linkedin : https://www.linkedin.com/in/yash-sakhale-5924121b8/
+### *If you're reading this, you are here way too early. I have just started building my github again and it is going to take a while so hang tight and visit again soon till im done uploading and sorting everything! Feel free to contact me if you want to chat - Email ID : ysakhale@andrew.cmu.edu || Linkedin : https://www.linkedin.com/in/yash-sakhale-5924121b8/ *
 
 
 
