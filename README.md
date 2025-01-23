@@ -1,6 +1,6 @@
-# Greetings! Welcome to my page 👋
+# Greetings! Welcome to my page 👋 <img src="https://github.com/user-attachments/assets/8a67ff60-3d37-4d20-b290-e0b7dbd42c49" alt="Image description" width="35" height ="35">
 
-### I'm a grad student at the Carnegie Mellon University pursuing M.S in Artificial Intelligence - Mechanical Engineering. <img src="https://github.com/user-attachments/assets/8a67ff60-3d37-4d20-b290-e0b7dbd42c49" alt="Image description" width="20" height ="20">
+### I'm a grad student at the Carnegie Mellon University pursuing M.S in Artificial Intelligence - Mechanical Engineering. 
 
 
 
