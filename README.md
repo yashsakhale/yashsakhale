@@ -2,6 +2,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsakhale&label=Profile%20views&color=0e75b6&style=flat" alt="yashsakhale" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashsakhale" alt="yashsakhale" /></a> </p>
+
+- 📫 How to reach me **ysakhale@andrew.cmu.edu**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 
 ### I'm a grad student at the Carnegie Mellon University pursuing M.S in Artificial Intelligence - Mechanical Engineering. 
 🔭 My interests lie in AI / ML applied in Autonomous vehicles and Perception Engineering and that explains all the topics of my projects in their respective repositories.
