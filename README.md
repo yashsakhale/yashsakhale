@@ -1,4 +1,8 @@
-## Hi there 👋
+# Greetings! Welcome to my page 👋
+
+## I am a graduate student at the Carnegie Mellon University pursuing M.S in Artificial Intelligence - Mechanical Engineering.
+
+
 
 <!--
 **yashsakhale/yashsakhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
